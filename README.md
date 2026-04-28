@@ -73,7 +73,7 @@ This project was built entirely in **Google Colab**.
 
 | Package | Version |
 |---|---|
-| Python | 3.11 |
+| Python | 3.12.13 |
 | pandas | 2.2.0 |
 | numpy | 1.26.4 |
 | scikit-learn | 1.4.1 |
